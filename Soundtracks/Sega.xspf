@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Плейлист</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Kid%20Chameleon/Kid%20Chameleon_03%20-%20Woods%20Area.mp3</location>
+			<title>Woods Area</title>
+			<creator>Mark Miller</creator>
+			<album>Kid Chameleon</album>
+			<duration>160575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Kid%20Chameleon/Kid%20Chameleon_04%20-%20Mountain%20Area.mp3</location>
+			<title>Mountain Area</title>
+			<creator>Mark Miller</creator>
+			<album>Kid Chameleon</album>
+			<duration>72098</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20rush%203/03%20-%20United%20Kingdom.mp3</location>
+			<title>United Kingdom</title>
+			<creator>Don Veca</creator>
+			<album>Road Rash 3</album>
+			<duration>359734</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20rush%203/05%20-%20Italy.mp3</location>
+			<title>Italy</title>
+			<creator>Don Veca</creator>
+			<album>Road Rash 3</album>
+			<duration>356416</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20Rush%202/02%20-%20Alaska.mp3</location>
+			<title>Alaska</title>
+			<creator>Rob Hubbard</creator>
+			<album>Road Rash II</album>
+			<duration>368823</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Top%20Ger%202/02%20-%20Canterbury%20Plains.mp3</location>
+			<title>Canterbury Plains</title>
+			<creator>Ashley Bennet, Paul Bennet, Neil Biggin, Patrick Phelan</creator>
+			<album>Top Gear 2</album>
+			<duration>254197</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Kid%20Chameleon/Kid%20Chameleon_05%20-%20Cave%20Area.mp3</location>
+			<title>Cave Area</title>
+			<creator>Mark Miller</creator>
+			<album>Kid Chameleon</album>
+			<duration>78628</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20rush%203/02%20-%20Brazil.mp3</location>
+			<title>Brazil</title>
+			<creator>Don Veca</creator>
+			<album>Road Rash 3</album>
+			<duration>308114</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20rush%203/03%20-%20United%20Kingdom.mp3</location>
+			<title>United Kingdom</title>
+			<creator>Don Veca</creator>
+			<album>Road Rash 3</album>
+			<duration>359734</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20Rush%203/05%20-%20Italy.mp3</location>
+			<title>Italy</title>
+			<creator>Don Veca</creator>
+			<album>Road Rash 3</album>
+			<duration>356416</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20rush%203/06%20-%20Kenya.mp3</location>
+			<title>Kenya</title>
+			<creator>Don Veca</creator>
+			<album>Road Rash 3</album>
+			<duration>358323</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20Rush%202/02%20-%20Alaska.mp3</location>
+			<title>Alaska</title>
+			<creator>Rob Hubbard</creator>
+			<album>Road Rash II</album>
+			<duration>368823</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20rush%203/07%20-%20Tokyo.mp3</location>
+			<title>Tokyo</title>
+			<creator>Don Veca</creator>
+			<album>Road Rash 3</album>
+			<duration>285389</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20Rush%202/05%20-%20Hawaii.mp3</location>
+			<title>Hawaii</title>
+			<creator>Don Veca</creator>
+			<album>Road Rash II</album>
+			<duration>362293</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Sonic%20Hedgehog%202/05%20-%20Chemical%20Plant%20Zone.mp3</location>
+			<title>Chemical Plant Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>121130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20Rush%202/06%20-%20Arizona.mp3</location>
+			<title>Arizona</title>
+			<creator>Rob Hubbard</creator>
+			<album>Road Rash II</album>
+			<duration>356023</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20Rush%202/04%20-%20Vermont.mp3</location>
+			<title>Vermont</title>
+			<creator>Rob Hubbard</creator>
+			<album>Road Rash II</album>
+			<duration>240640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Dr.Robotnik/01%20-%20Opening%20Theme.mp3</location>
+			<title>Opening Theme</title>
+			<creator>Masanori Hikichi, Masayuki Nagao</creator>
+			<album>Dr. Robotnik&#39;s Mean Bean Machine</album>
+			<duration>74579</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Dr.Robotnik/04%20-%20Stages%201-4%20Intro.mp3</location>
+			<title>Stages 1-4 Intro</title>
+			<creator>Masanori Hikichi, Masayuki Nagao</creator>
+			<album>Dr. Robotnik&#39;s Mean Bean Machine</album>
+			<duration>26488</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Dr.Robotnik/05%20-%20Stages%201-4.mp3</location>
+			<title>Stages 1-4</title>
+			<creator>Masanori Hikichi, Masayuki Nagao</creator>
+			<album>Dr. Robotnik&#39;s Mean Bean Machine</album>
+			<duration>71993</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20Rush/09%20-%20Redwood%20Forest%20(No%20Intro).mp3</location>
+			<title>Redwood Forest (No Intro)</title>
+			<creator>Michael Bartlow</creator>
+			<album>Road Rash</album>
+			<duration>342545</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Dr.Robotnik/07%20-%20Stages%205-8.mp3</location>
+			<title>Stages 5-8</title>
+			<creator>Masanori Hikichi, Masayuki Nagao</creator>
+			<album>Dr. Robotnik&#39;s Mean Bean Machine</album>
+			<duration>63138</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Dr.Robotnik/06%20-%20Stages%205-8%20Intro.mp3</location>
+			<title>Stages 5-8 Intro</title>
+			<creator>Masanori Hikichi, Masayuki Nagao</creator>
+			<album>Dr. Robotnik&#39;s Mean Bean Machine</album>
+			<duration>22073</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Dr.Robotnik/07%20-%20Stages%205-8.mp3</location>
+			<title>Stages 5-8</title>
+			<creator>Masanori Hikichi, Masayuki Nagao</creator>
+			<album>Dr. Robotnik&#39;s Mean Bean Machine</album>
+			<duration>63138</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Dr.Robotnik/04%20-%20Stages%201-4%20Intro.mp3</location>
+			<title>Stages 1-4 Intro</title>
+			<creator>Masanori Hikichi, Masayuki Nagao</creator>
+			<album>Dr. Robotnik&#39;s Mean Bean Machine</album>
+			<duration>26488</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Dr.Robotnik/05%20-%20Stages%201-4.mp3</location>
+			<title>Stages 1-4</title>
+			<creator>Masanori Hikichi, Masayuki Nagao</creator>
+			<album>Dr. Robotnik&#39;s Mean Bean Machine</album>
+			<duration>71993</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Dr.Robotnik/07%20-%20Stages%205-8.mp3</location>
+			<title>Stages 5-8</title>
+			<creator>Masanori Hikichi, Masayuki Nagao</creator>
+			<album>Dr. Robotnik&#39;s Mean Bean Machine</album>
+			<duration>63138</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/ESWAT/08%20-%20BGM%203.mp3</location>
+			<title>BGM 3</title>
+			<creator>Y. Takada, Takayuki Nakamura</creator>
+			<album>ESWAT: City Under Siege</album>
+			<duration>236252</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Shinobi%203/02%20-%20Ninja%20Soul.mp3</location>
+			<title>Ninja Soul</title>
+			<creator>Morihiko Akiyama, Hirofumi Murasaki, Masayuki Nagao</creator>
+			<album>Shinobi III: Return of the Ninja Master</album>
+			<duration>267782</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Kid%20Chameleon/Kid%20Chameleon_03%20-%20Woods%20Area.mp3</location>
+			<title>Woods Area</title>
+			<creator>Mark Miller</creator>
+			<album>Kid Chameleon</album>
+			<duration>160575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Shinobi%203/06%20-%20Shinobi%20Walk.mp3</location>
+			<title>Shinobi Walk</title>
+			<creator>Morihiko Akiyama, Hirofumi Murasaki, Masayuki Nagao</creator>
+			<album>Shinobi III: Return of the Ninja Master</album>
+			<duration>207334</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Shinobi%203/17%20-%20Japonesque.mp3</location>
+			<title>Japonesque</title>
+			<creator>Morihiko Akiyama, Hirofumi Murasaki, Masayuki Nagao</creator>
+			<album>Shinobi III: Return of the Ninja Master</album>
+			<duration>146651</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/tinytoon_the_buster_hidden_treasure/06%20-%20Inside%20the%20Caverns.mp3</location>
+			<title>Inside the Caverns</title>
+			<creator>Shinji Tasaka, Tsuyoshi Sekito, Hideto Inoue</creator>
+			<album>Tiny Toon Adventures: Buster&#39;s Hidden Treasure</album>
+			<duration>90148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Sonic%20Hedgehog%202/29%20-%20Special%20Stage.mp3</location>
+			<title>Special Stage</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>98351</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Sonic%20Hedgehog%202/05%20-%20Chemical%20Plant%20Zone.mp3</location>
+			<title>Chemical Plant Zone</title>
+			<creator>Masato Nakamura</creator>
+			<album>Sonic the Hedgehog 2</album>
+			<duration>121130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Road%20of%20Rush/04%20-%20Redwood%20Forest.mp3</location>
+			<title>Redwood Forest</title>
+			<creator>Michael Bartlow</creator>
+			<album>Road Rash</album>
+			<duration>348553</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/Top%20Ger%202/02%20-%20Canterbury%20Plains.mp3</location>
+			<title>Canterbury Plains</title>
+			<creator>Ashley Bennet, Paul Bennet, Neil Biggin, Patrick Phelan</creator>
+			<album>Top Gear 2</album>
+			<duration>254197</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/ESWAT/06%20-%20BGM%202.mp3</location>
+			<title>BGM 2</title>
+			<creator>Y. Takada, Takayuki Nakamura</creator>
+			<album>ESWAT: City Under Siege</album>
+			<duration>168098</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/tinytoon_the_buster_hidden_treasure/07%20-%20Inside%20the%20Volcano.mp3</location>
+			<title>Inside the Volcano</title>
+			<creator>Shinji Tasaka, Tsuyoshi Sekito, Hideto Inoue</creator>
+			<album>Tiny Toon Adventures: Buster&#39;s Hidden Treasure</album>
+			<duration>90827</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/volpo/Desktop/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/ftpkmcr/Deposit%20Soundtracks/Soundtracks/ESWAT/09%20-%20BGM%204.mp3</location>
+			<title>BGM 4</title>
+			<creator>Y. Takada, Takayuki Nakamura</creator>
+			<album>ESWAT: City Under Siege</album>
+			<duration>134191</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+	</extension>
+</playlist>
